@@ -43,6 +43,6 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="Soenneker.Quark.Components" Version="3.0.59" />
+        <PackageReference Include="Soenneker.Quark.Components" Version="3.0.61" />
     </ItemGroup>
 </Project>
